@@ -1,10 +1,10 @@
 # Site settings
-title: dawenxi blog
-SEOTitle: 达文西的博客 | soraCN
+title: 牛牛的blog
+SEOTitle: 牛牛的博客 | soraCN
 header-img: img/home-bg.jpg
 email: admin@soracn.com.cn
-description: "这里是 @dawenxi 的个人博客，与你一起发现更大的世界 | soraCN"
-keyword: "达文西, ai, sora, soracn, 泥牛"
+description: "这里是 @牛牛 的个人博客，与你一起发现更大的世界 | soraCN"
+keyword: "达文西,牛牛, ai, sora, soracn, 泥牛"
 url: "http://soracn.com.cn" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,12 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+zhihu_username: 泥牛
+github_username: foolishbush
+twitter_username: wensidaa
+
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
